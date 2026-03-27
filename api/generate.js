@@ -1,5 +1,6 @@
-Perfect! Now paste all this code into the big text box below the filename:
-javascriptexport default async function handler(req, res) {
+js
+
+export default async function handler(req, res) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' }); 
   }
