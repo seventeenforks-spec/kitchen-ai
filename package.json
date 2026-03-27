@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Chef JP's Kitchen Intelligence — Seventeen Forks",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
